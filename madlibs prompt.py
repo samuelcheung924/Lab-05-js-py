@@ -1,0 +1,8 @@
+noun = input("Enter noun ")
+adjective = input("Enter adjective ")
+adverb = input("Enter adverb ")
+verb = input("Enter verb ")
+print(noun)
+print(adjective)
+print(adverb)
+print(verb)
